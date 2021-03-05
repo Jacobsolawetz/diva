@@ -11,7 +11,7 @@ import copy
 
 st.write('# Welcome to Diva :princess:')
 
-st.write('### Your number one confidant, always')
+st.write('### Your number one confidant')
 
 user_input = st.text_input("Which of my photos looks most like :", "a good looking person")
 
